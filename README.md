@@ -1,4 +1,3 @@
-Here's a README.md file tailored for your script:
 Admin Tasks Menu Script
 
 This repository contains a Bash script designed for system administrators to perform common administrative tasks through a simple menu interface. The script leverages Linux utilities to manage users, processes, system updates, and more.
